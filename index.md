@@ -1,8 +1,7 @@
 ---
 layout: home
-title: About Me 
+title: About
 image: front_pic.webp
-backup_image: front_pic.JPG
 permalink: /home
 ---
 
