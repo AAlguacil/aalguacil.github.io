@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: turbomachine_pic.webp
+image: turbomachine_pic.png
 ---
 
 You can contact me <a href="mailto:antonio.alguacil.cabrerizo@usherbrooke.ca">here<span style="display:none;">@usherbrooke.ca</span>
