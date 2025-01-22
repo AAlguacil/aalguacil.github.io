@@ -2,7 +2,6 @@
 layout: page
 title: About Me 
 image: front_pic.webp
-backup_image: front_pic.JPG
 permalink: /about
 ---
 
