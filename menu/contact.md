@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: turbomachine_pic.jpg
+image: turbomachine_pic.png
 permalink: /contact
 ---
 

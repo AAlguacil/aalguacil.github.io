@@ -5,7 +5,7 @@ image: dilatation_RAE2822.png
 permalink: /publications
 ---
 
-### Peer-reviewed articles
+## Peer-reviewed articles
 
 Alguacil A., Bauerheim M., Jacob M.C., Moreau S. (2022) **Deep Learning Surrogate for the Temporal Propagation and Scattering of Acoustic Waves**, *AIAA Journal*, 60 (10), 5890-5906. [doi](https://doi.org/10.2514/1.J061495)
 
@@ -15,7 +15,7 @@ Alguacil A., Bauerheim M., Jacob M.C., Moreau S. (2021) **Predicting the Propaga
 
 Alguacil, A., Jardin, T., Gourdain, N. (2020) **Fluid–Structure Interactions and Unsteady Kinematics of a Low-Reynolds-Number Rotor**, *AIAA Journal*, (58) 2, 955–967. [doi](https://doi.org/10.2514/1.J058230)
 
-### Conference articles
+## Conference articles
 
 Alguacil A., Lohse S., Maroldt, N. Seume J. R., Moreau S. (2024) **Broadband interaction noise predictions for an axial compressor stator**, *Proceedings of Global Power and Propulsion Society (GPPS Chania24)*, Paper 194, Chania, Greece. [url](https://gpps.global/wp-content/uploads/2024/09/GPPS-TC-2024_paper_194.pdf)
 
@@ -45,6 +45,6 @@ Ajuria E. Alguacil A., Bauerheim M. Misdariis A., Cuenot B., Benazera E. (2020) 
 
 Alguacil, A., Jardin, T., Gourdain, N. (2018) **Implementation of aero-elastic capabilities in a LBM flow solver: application to a low-Reynolds rotor for micro-air vehicles**, *44th European Rotorcraft Forum (ERF) 2018*, pages 290-302. [url](http://hdl.handle.net/20.500.11881/3906)
 
-### PhD Thesis
+## PhD Thesis
 
 Alguacil, A. (2022) **Predicting the propagation of acoustic waves in complex media with deep neural networks**. Université de Sherbrooke and Université de Toulouse (ISAE-Supaero). [url](https://www.theses.fr/2022ESAE0053)

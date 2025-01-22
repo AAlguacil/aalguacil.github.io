@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me 
-image: front_pic.jpg
+image: front_pic.png
 permalink: /about
 ---
 
