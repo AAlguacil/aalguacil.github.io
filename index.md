@@ -1,5 +1,5 @@
 ---
 layout: home
-title: About
+title: Hello!
 permalink: /home
 ---
