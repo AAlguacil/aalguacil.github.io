@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Contact
+image: turbomachine_pic.webp
+backup_image: turbomachine.JPG
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+You can contact me at antonio[dot]alguacil[dot]cabrerizo[at]usherbrooke.ca

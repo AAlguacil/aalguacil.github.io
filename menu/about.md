@@ -1,19 +1,9 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About Me 
+image: front_pic.webp
+backup_image: front_pic.JPG
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+I am an Assistant Professor at the Université de Sherbrooke (QC, Canada). My research focuses broadly on the aerodynamics, aeroacoustics, and aeroelasticity phenomena prediction in turbomachinery (from drones to large aircraft turbofan engines). I received a double PhD from the Université de Sherbrooke and ISAE-Supaero in Toulouse (France), working under the supervision of Stéphane Moreau, Marc C. Jacob, and Micha\"{e}l Bauerheim. Before that, I earned Bachelor's and Master's degrees in Aerospace Engineering at the Universidad Politécnica de Madrid (UPM) and at ISAE-Supaero respectively.
