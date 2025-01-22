@@ -2,7 +2,6 @@
 layout: page
 title: Publications & Conferences
 image: dilatation_RAE2822.png
-permalink: /publications
 ---
 
 ### Peer-reviewed articles
