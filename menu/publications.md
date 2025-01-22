@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications & Conferences
+title: Publications
 image: dilatation_RAE2822.png
 permalink: /publications
 ---
