@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: About
 image: front_pic.webp
 permalink: /home
