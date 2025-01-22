@@ -13,10 +13,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Antonio-Alguacil'}
 - {icon: 'github',       link: 'https://www.github.com/AAlguacil'}
 - {icon: 'linkedin',     link: 'http://www.linkedin.com/in/antonio-alguacil-cabrerizo-539361146/'}
 - {icon: 'envelope',     link: 'mailto:antonio.alguacil.cabrerizo@usherbrooke.ca'}
+# - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Antonio-Alguacil'}
 # - {icon: 'twitter',    link: 'https://twitter.com/paululele'}
 # - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
