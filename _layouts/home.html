@@ -11,30 +11,3 @@ layout: default
 <article>
   {{ content }}
 </article>
-
-{% for page in paginator.pages %}
-<div class="pages">
-  <h1>
-    <a href="{{ site.github.url }}{{ page.url }}">{{ page.title }}</a>
-  </h1>
-  {% if page.image %}
-  <div class="thumbnail-container">
-    <a href="{{ site.github.url }}{{ page.url }}"><img src="{{ site.github.url }}/assets/img/{{ page.image }}"></a>
-  </div>
-  {% endif %}
-</div>
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div>
