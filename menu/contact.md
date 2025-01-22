@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 image: turbomachine_pic.webp
-backup_image: turbomachine.JPG
+backup_image: turbomachine.jpg
 permalink: /contact
 ---
 

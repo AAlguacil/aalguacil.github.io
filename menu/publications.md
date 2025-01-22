@@ -2,7 +2,7 @@
 layout: page
 title: Publications & Conferences
 image: DMD_RAE2822.webp
-backup_image: DMD_RAE2822.jpg
+backup_image: DMD_RAE2822.png
 permalink: /publications
 ---
 
