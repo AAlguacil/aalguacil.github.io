@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About 
-image: front_pic.png
+image: front_pic.webp
+backup_image: front_pic.png
 permalink: /about
 ---
 

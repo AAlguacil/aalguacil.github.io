@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Publications
-image: dilatation_RAE2822.png
+image: dilatation_RAE2822.webp
+backup_image: dilatation_RAE2822.png
 permalink: /publications
 ---
 
