@@ -67,8 +67,11 @@
   @include social-media-icon($rss-color, $icon-transition-time);
 }
 
-.fa-researchgate {
+.ai-researchgate {
   padding: 5px;
   @include social-media-icon($researchgate-color, $icon-transition-time);
 }
 
+.ai-google-scholar{
+  padding: 5px;
+  @include social-media-icon($google-scholar-color, $icon-transition-time);

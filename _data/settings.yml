@@ -16,13 +16,14 @@ social:
 - {icon: 'github',       link: 'https://www.github.com/AAlguacil'}
 - {icon: 'linkedin',     link: 'http://www.linkedin.com/in/antonio-alguacil-cabrerizo-539361146/'}
 - {icon: 'envelope',     link: 'mailto:antonio.alguacil.cabrerizo@usherbrooke.ca'}
-# - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Antonio-Alguacil'}
 # - {icon: 'twitter',    link: 'https://twitter.com/paululele'}
 # - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
-# academic:
-# - {icon: 'google-scholar', link: 'https://scholar.google.ca/citations?user=xxf4ysYAAAAJ&hl=en'}
+# Available academic icons are powered by Academicicons
+ academic:
+ - {icon: 'google-scholar', link: 'https://scholar.google.ca/citations?user=xxf4ysYAAAAJ&hl=en'}
+ - {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Antonio-Alguacil'}
 
 # Customize site text
 pagination:
