@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>
+  {{ page.title }}
+</h1>
+{% if page.image %}
+  <picture>
+      <source srcset="{{ site.github.url }}/assets/img/{{ page.image }}" type="image/webp">
+      <img src="{{ site.github.url }}/assets/img/{{ page.backup_image }}">
+  </picture>
+{% endif %}
+<article>
+  {{ content }}
+</article>
+
+{% include social-icons.html %}
