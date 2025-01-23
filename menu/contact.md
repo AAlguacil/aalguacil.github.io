@@ -8,3 +8,7 @@ Get in touch: <a href="mailto:antonio.alguacil.cabrerizo@usherbrooke.ca">antonio
 
 You can also find me on social media:
 
+<nav class="social-icons">
+  {% include social-icons.html %}
+</nav>
+
